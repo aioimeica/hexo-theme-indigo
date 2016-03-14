@@ -36,6 +36,7 @@ theme: indigo
 plugins:
   - hexo-renderer-less
 ```
+Phoenix_Ans  
 Q1：报错
 >$ hexo g  
 >INFO  Start processing  
@@ -44,6 +45,7 @@ Q1：报错
 
 解决方案：_config.yml中不配置插件 依赖  
 原始参考：[Maybe there's something wrong with your _config.yml? Could you post the _config.yml if you don't mind?](https://github.com/hexojs/hexo-renderer-jade/issues/4)
+Phoenix_Ans  
 
 ### 开启标签页
 
